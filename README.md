@@ -1,4 +1,4 @@
-# spd-vue
+# webpack-analysis-demo
 
 > A webpack project for test
 
